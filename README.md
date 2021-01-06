@@ -7,5 +7,5 @@ I also made my own website which you can visit by [clicking here](https://linerl
 Join my Discord server by clicking [here](https://discord.gg/r4PPpC9/)!
 
 <!--
-Please join my Discord server I need 100 members kthxbai :Sweatsmile:
+Never gonna give you up, never gonna let you down, never gonna- nevermind.
 -->
