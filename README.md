@@ -7,7 +7,7 @@ I also made my own website which you can visit by [clicking here](https://linerl
 Join my Discord server by clicking [here](https://discord.gg/r4PPpC9/)!
 
 
-![Linerly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linerly)
+![Linerly's GitHub metrics](https://metrics.lecoq.io/Linerly)
 <!--
 Never gonna give you up, never gonna let you down, never gonna- nevermind.
 -->
