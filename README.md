@@ -1,5 +1,5 @@
 ### Hello there! 👋
-Welcome to my profile, I guess, have a look at my repositories.
+Welcome to my profile, I guess, take a look at my repositories.
 
 I also made my own website which you can visit by [clicking here](https://linerly.github.io/). 🌐
 
