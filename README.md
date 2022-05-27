@@ -11,7 +11,7 @@ Welcome to my GitHub profile! :octocat:
 
 # 📈 Stats
 [![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=Linerly&hide_border=true&count_private=true&show_icons=true&bg_color=ffffff00&title_color=66b5ff&text_color=66b5ff&icon_color=80c1ff)](https://git.io/readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Linerly&hide_border=true&theme=dark&date_format=j%20M%5B%20Y%5D&background=ffffff00&stroke=80c1ff&sideLabels=66b5ff&sideNums=66b5ff&currStreakLabel=66b5ff&dates=66b5ffd4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Linerly&hide_border=true&theme=dark&date_format=j%20M%5B%20Y%5D&background=ffffff00&stroke=80c1ff&sideLabels=66b5ff&sideNums=66b5ff&currStreakLabel=66b5ff&dates=66b5ffd4&currStreakNum=66b5ff)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linerly&layout=compact&hide_border=true&count_private=true&bg_color=ffffff00&title_color=66b5ff&text_color=66b5ff&icon_color=80c1ff)](https://git.io/readme-stats)
 
 ###### <sup>Anything else in here?</sup>
