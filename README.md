@@ -1,5 +1,5 @@
 # 👋 Hello there!
-Welcome to my GitHub profile! :octocat:
+Welcome to my GitHub profile! 🐙🐱
 
 <details>
 <summary>What I do</summary>
