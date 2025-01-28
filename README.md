@@ -1,7 +1,7 @@
 # 👋 Hello there!
 Welcome to my GitHub profile! 🐙🐱
 
-Keep in mind, [my personal projects are now on Codeberg](https://codeberg.org/Linerly).
+Keep in mind that [my personal projects are now on Codeberg](https://codeberg.org/Linerly).
 
 <details>
 <summary>What I do</summary>
@@ -9,4 +9,4 @@ Keep in mind, [my personal projects are now on Codeberg](https://codeberg.org/Li
   <p>...and sometimes fixing things in pages and documentations as well.</p>
 </details>
 
-### [<img src="https://linerly.xyz/assets/icon.svg" width="16" height="16"> My Website](https://linerly.xyz/)
+### [<img src="https://linerly.xyz/media/core/icon-optimized.svg" width="16" height="16"> My Website](https://linerly.xyz/)
